@@ -37,12 +37,30 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=Frontend&fontSize=20&fontColor=4cc9f0&animation=twinkling"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark&perline=9"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=Backend%20%26%20Database&fontSize=20&fontColor=f72585&animation=twinkling"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,firebase,mysql,express&theme=dark&perline=9"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=Tools%20%26%20Platforms&fontSize=20&fontColor=7209b7&animation=twinkling"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark&perline=9"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="60%" height="4px"/>
+
+<br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
