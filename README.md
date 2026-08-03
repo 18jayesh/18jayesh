@@ -15,6 +15,7 @@
 ```yaml
 Name:          Jayesh Mali
 Role:          Full Stack Developer
+Email:         jayeshmali245@gmail.com
 Education:     BCA Graduate
 Skills:        [React.js, JavaScript, Next.js, TypeScript, Node.js, PHP, Firebase, MySQL]
 Currently:     Sharpening Backend + TypeScript
