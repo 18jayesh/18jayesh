@@ -1,15 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Jayesh%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Jayesh%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%2B%20Node.js%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%F0%9F%92%BB;React.js+%2B+Next.js+Developer+%E2%9A%A1;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Turning+%E2%98%95+into+Code+%F0%9F%94%A5" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=18jayesh&label=PROFILE+VIEWS&color=f72585&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/18jayesh?label=FOLLOWERS&style=for-the-badge&color=7209b7" />
-<img src="https://img.shields.io/badge/REPOS-23-4361ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4cc9f0?style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;React.js+%2B+Node.js+%2B+Next.js+%E2%9A%A1;Frontend+%2B+Backend+%2B+Database+%F0%9F%9A%80;Turning+%E2%98%95+into+Code+%F0%9F%94%A5" />
 
 </div>
 
@@ -21,10 +14,10 @@
 
 ```yaml
 Name:          Jayesh Mali
-Role:          Frontend Developer
+Role:          Full Stack Developer
 Education:     BCA Graduate
-Skills:        [React.js, JavaScript, Next.js, TypeScript, Tailwind CSS, Firebase]
-Currently:     Leveling up Backend + TypeScript
+Skills:        [React.js, JavaScript, Next.js, TypeScript, Node.js, PHP, Firebase, MySQL]
+Currently:     Sharpening Backend + TypeScript
 Goal:          Build scalable, user-loved applications
 FunFact:       "console.log('coffee ➡️ code')"
 ```
@@ -48,27 +41,6 @@ FunFact:       "console.log('coffee ➡️ code')"
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=Tools%20%26%20Platforms&fontSize=20&fontColor=7209b7&animation=twinkling"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark&perline=9"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="60%" height="4px"/>
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -95,6 +67,8 @@ FunFact:       "console.log('coffee ➡️ code')"
         <li>🔐 Role based authentication</li>
       </ul>
       <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/> <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"/>
+      <br/><br/>
+      <a href="https://bimbillingsystem.vercel.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-4361ee?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
       <b>🍔 Discover & share recipes with the world</b>
@@ -106,6 +80,8 @@ FunFact:       "console.log('coffee ➡️ code')"
         <li>🏷️ Categories & tags</li>
       </ul>
       <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/> <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"/>
+      <br/><br/>
+      <a href="https://food-software.vercel.app/home"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-7209b7?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
@@ -122,6 +98,8 @@ FunFact:       "console.log('coffee ➡️ code')"
         <li>🔎 Movie search &nbsp;•&nbsp; 🎞️ Movie details &nbsp;•&nbsp; 🔐 Protected routes &nbsp;•&nbsp; ⚡ Redux state management</li>
       </ul>
       <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux"/> <img src="https://img.shields.io/badge/API-black?style=flat-square&logo=fastapi"/>
+      <br/><br/>
+      <a href="https://movie-fiendr-git-main-jayeshs-projects-6755b22d.vercel.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-4cc9f0?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
