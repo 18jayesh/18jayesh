@@ -48,61 +48,61 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<img width="410" src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=BIM%20Billing%20System&fontSize=22&fontColor=f72585&animation=twinkling"/>
-<img width="410" src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=Recipe%20Sharing%20App&fontSize=22&fontColor=7209b7&animation=twinkling"/>
-
-</div>
-
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <b>🏗️ Billing system for construction businesses</b>
-      <ul>
-        <li>👥 Contractor & worker management</li>
-        <li>📅 Attendance tracking</li>
-        <li>💰 Salary calculation</li>
-        <li>📊 Payment reports</li>
-        <li>🔐 Role based authentication</li>
-      </ul>
-      <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/> <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🏗️ BIM Billing System</h3>
+      <p>Billing management system for construction businesses</p>
+      <p align="left">
+        👥 Contractor & worker management&nbsp;&nbsp;•&nbsp;&nbsp;📅 Attendance tracking<br/>
+        💰 Salary calculation&nbsp;&nbsp;•&nbsp;&nbsp;📊 Payment reports<br/>
+        🔐 Role based authentication
+      </p>
+      <img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark"/>
       <br/><br/>
-      <a href="https://bimbillingsystem.vercel.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-4361ee?style=for-the-badge"/></a>
+      <a href="https://bimbillingsystem.vercel.app/">
+        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <b>🍔 Discover & share recipes with the world</b>
-      <ul>
-        <li>🔐 Authentication</li>
-        <li>🍲 Create & share recipes</li>
-        <li>❤️ Favorites</li>
-        <li>🎥 Video recipes</li>
-        <li>🏷️ Categories & tags</li>
-      </ul>
-      <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/> <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🍔 Recipe Sharing Platform</h3>
+      <p>Modern platform for sharing and discovering recipes</p>
+      <p align="left">
+        🔐 Authentication&nbsp;&nbsp;•&nbsp;&nbsp;🍲 Create & share recipes<br/>
+        ❤️ Favorites&nbsp;&nbsp;•&nbsp;&nbsp;🎥 Video recipes<br/>
+        🏷️ Categories & tags
+      </p>
+      <img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark"/>
       <br/><br/>
-      <a href="https://food-software.vercel.app/home"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-7209b7?style=for-the-badge"/></a>
+      <a href="https://food-software.vercel.app/home">
+        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
 
-<div align="center">
-<img width="410" src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=Movie%20Library%20App&fontSize=22&fontColor=4361ee&animation=twinkling"/>
-</div>
+<br/>
 
-<table width="100%">
+<div align="center">
+
+<table width="70%">
   <tr>
-    <td width="100%" valign="top">
-      <b>🎬 Movie discovery app with search and details</b>
-      <ul>
-        <li>🔎 Movie search &nbsp;•&nbsp; 🎞️ Movie details &nbsp;•&nbsp; 🔐 Protected routes &nbsp;•&nbsp; ⚡ Redux state management</li>
-      </ul>
-      <img src="https://img.shields.io/badge/React.js-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux"/> <img src="https://img.shields.io/badge/API-black?style=flat-square&logo=fastapi"/>
+    <td align="center">
+      <h3>🎬 Movie Library App</h3>
+      <p>Movie discovery application with search and details</p>
+      <p>
+        🔎 Movie search&nbsp;&nbsp;•&nbsp;&nbsp;🎞️ Movie details&nbsp;&nbsp;•&nbsp;&nbsp;🔐 Protected routes&nbsp;&nbsp;•&nbsp;&nbsp;⚡ Redux state management
+      </p>
+      <img src="https://skillicons.dev/icons?i=react,redux&theme=dark"/>
       <br/><br/>
-      <a href="https://movie-fiendr-git-main-jayeshs-projects-6755b22d.vercel.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-4cc9f0?style=for-the-badge"/></a>
+      <a href="https://movie-fiendr-git-main-jayeshs-projects-6755b22d.vercel.app/">
+        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" height="5px"/>
 
