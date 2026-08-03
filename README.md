@@ -30,7 +30,7 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=Frontend&fontSize=20&fontColor=4cc9f0&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=55&section=header&text=FullStack&fontSize=20&fontColor=4cc9f0&animation=twinkling"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark&perline=9"/>
 
@@ -135,11 +135,6 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" height="5px"/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/18jayesh/18jayesh/output/github-contribution-grid-snake.svg" />
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" height="5px"/>
 
