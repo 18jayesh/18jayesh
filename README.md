@@ -61,7 +61,7 @@ FunFact:       "console.log('coffee ➡️ code')"
       <img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark"/>
       <br/><br/>
       <a href="https://bimbillingsystem.vercel.app/">
-        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live%20Demo-4361ee?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -75,7 +75,7 @@ FunFact:       "console.log('coffee ➡️ code')"
       <img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark"/>
       <br/><br/>
       <a href="https://food-software.vercel.app/home">
-        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live%20Demo-7209b7?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117"/>
       </a>
     </td>
   </tr>
@@ -96,7 +96,7 @@ FunFact:       "console.log('coffee ➡️ code')"
       <img src="https://skillicons.dev/icons?i=react,redux&theme=dark"/>
       <br/><br/>
       <a href="https://movie-fiendr-git-main-jayeshs-projects-6755b22d.vercel.app/">
-        <img src="https://img.shields.io/badge/-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live%20Demo-4cc9f0?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117"/>
       </a>
     </td>
   </tr>
@@ -110,10 +110,9 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <div align="center">
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs&theme=dark"/>
+<br/>
+<sub>Next.js &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; Data Structures & Algorithms</sub>
 
 </div>
 
@@ -148,9 +147,11 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <div align="center">
 
-<a href="https://github.com/18jayesh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/18jayesh"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>
 
 </div>
 
