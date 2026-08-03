@@ -144,9 +144,9 @@ FunFact:       "console.log('coffee ➡️ code')"
 
 <a href="https://github.com/18jayesh"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
 &nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jayesh-mali-a88625343/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>
+<a href="mailto:jayeshmali245@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/></a>
 
 </div>
 
