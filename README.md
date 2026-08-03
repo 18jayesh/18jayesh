@@ -1,56 +1,51 @@
-# Hi there 👋 I'm Jayesh Mali
+# 👋 Hey, I'm Jayesh Mali
 
 <div align="center">
 
-### 🚀 Frontend Developer | React.js Developer | Full Stack Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Full+Stack+Developer+in+Progress;Building+Modern+Web+Applications" />
 
-Building modern, responsive, and user-friendly web applications with clean code and creative UI designs.
+</div>
+
+<br/>
+
+<div align="center">
+
+🚀 Passionate Frontend Developer  
+💻 Creating clean, responsive & interactive web experiences  
+🌱 Currently learning Next.js, TypeScript & Backend Development
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hello! I'm **Jayesh Mali**, a passionate **Frontend Developer** from India.
-
-- 🎓 BCA Graduate
-- 💻 Currently learning **Full Stack Development**
-- 🌱 Exploring **React.js, Next.js, TypeScript & Node.js**
-- 🚀 Building real-world projects with modern technologies
-- 🎨 Love creating beautiful UI/UX experiences
-- 💡 Always improving my problem-solving and development skills
+```javascript
+const jayesh = {
+    role: "Frontend Developer",
+    education: "BCA Graduate",
+    skills: [
+        "React.js",
+        "JavaScript",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Firebase"
+    ],
+    goal: "Building scalable and user-friendly applications"
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### Frontend Development
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap,nodejs,firebase,mysql,php,git,github,vscode&perline=7" />
 
-### Styling
+</div>
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -58,135 +53,123 @@ Hello! I'm **Jayesh Mali**, a passionate **Frontend Developer** from India.
 
 ## 🏗️ BIM Billing System
 
-A complete construction billing management system designed for managing contractors, workers, attendance, salary calculations, and payments.
+> A complete billing management system for construction businesses.
 
-**Features:**
-- 🔐 Role-based authentication
-- 👷 Contractor & Karigar management
+### Features:
+- 👥 Contractor & worker management
 - 📅 Attendance tracking
-- 💰 Salary & payment management
-- 📊 Reports generation
+- 💰 Salary calculation
+- 📊 Payment reports
+- 🔐 Role based authentication
 
-**Tech Stack:**
 
-React.js • Firebase Authentication • Firestore • Tailwind CSS
+**Built With**
+
+React.js • Firebase • Firestore • Tailwind CSS
 
 
 ---
 
 ## 🍔 Recipe Sharing Platform
 
-A modern food-sharing platform where users can create, share, and explore recipes.
+> A modern platform for sharing and discovering recipes.
 
-**Features:**
+### Features:
+- 🔐 Authentication
+- 🍲 Create & share recipes
+- ❤️ Favorites
+- 🎥 Video recipes
+- 🏷️ Categories & tags
 
-- 🔐 User Authentication
-- 🍲 Recipe creation
-- ❤️ Favorites system
-- 🎥 Video recipe support
-- 🏷️ Recipe tagging
-- 📱 Responsive UI
 
-**Tech Stack:**
+**Built With**
 
 React.js • Firebase • Tailwind CSS
 
 
 ---
 
-## 🎬 Movie Library Application
+## 🎬 Movie Library App
 
-A movie browsing application with search functionality and detailed movie information.
+> A movie discovery application with search and details.
 
-**Features:**
-
+### Features:
 - 🔎 Movie search
-- 🎥 Movie details
+- 🎞️ Movie details
 - 🔐 Protected routes
 - ⚡ Redux state management
 
-**Tech Stack:**
 
-React.js • Redux Toolkit • API Integration • Bootstrap
+**Built With**
 
-
----
-
-## 🏠 Smart Home Management System
-
-A smart home management project built with PHP and MySQL.
-
-**Features:**
-
-- User management
-- Database operations
-- Admin functionality
-- Backend logic implementation
-
-**Tech Stack:**
-
-PHP • MySQL • HTML • CSS
+React.js • Redux • API Integration
 
 
 ---
 
 # 📚 Currently Learning
 
-```
-Next.js
-TypeScript
-Node.js
-Backend Development
-Advanced JavaScript
-Data Structures & Algorithms
-```
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=18jayesh&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=18jayesh&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs" />
 
 </div>
 
+
+- Advanced JavaScript
+- TypeScript
+- Next.js
+- Backend Development
+- Data Structures & Algorithms
+
+
 ---
 
-# 📈 Most Used Languages
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18jayesh&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=18jayesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18jayesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+
 ---
 
-# 🤝 Connect With Me
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/18jayesh/18jayesh/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/18jayesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 </div>
+
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile
 
-### Let's build something amazing together 🚀
+### Let's create something amazing 🚀
 
 </div>
